@@ -1,0 +1,2 @@
+# stocknewbie.com
+bash scripts
